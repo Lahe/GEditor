@@ -1,4 +1,5 @@
 # GEditor
+*Lightweight video editor*
 
 ![](https://i.imgur.com/HwEqMCI.png)
 
